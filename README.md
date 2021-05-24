@@ -11,7 +11,7 @@
 
 WolfUserBot is a modular Telegram userbot running on Python3, which can be coupled up with Heroku.
 
-WolfUserBot is currently maintained by [Rajveer](https://t.me/Smart_S54) [ϻʀ 𝗦ᴄ1�7ᴍᴍʏ┃WᴏʟꜰGᴄ1�7ɴɢ┄1�7 🐺 ](https://t.me/Mr_Semmy). It started as a simple bot,
+WolfUserBot is currently maintained by [Rajveer](https://t.me/Smart_S54) [Ï»Ê€ ð—¦á´„1¤7á´á´Êâ”ƒWá´ÊŸêœ°Gá´„1¤7É´É¢â”„1¤7 ðŸº ](https://t.me/Mr_Semmy). It started as a simple bot,
 
 which helped with group management, [WolfUserBot](https://github.com/WolfGangIndia/WolfUserBot).
 
@@ -23,10 +23,10 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WolfGangIndia/WolfUserBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING-USER1/BLACK-GHOULS-USERBOT)
 <p align="center">
   <a href="https://github.com/WolfGangIndia/WolfUserBot/fork">
-    <img src="https://img.shields.io/github/forks/WolfGangIndia/WolfUserBot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/KING-USER1/BLACK-GHOULS-USERBOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/WolfGangIndia/WolfUserBot">
@@ -72,8 +72,7 @@ if you want new features, or announcements, you can follow our [Project Updates 
 
 For discussion, bug reporting, and help, you can join [WolfUserBot Support Group](https://t.me/Wolf_User_Bot).
 
-## How to setup Google Drive
-[![SetGDRIVE](https://telegra.ph/file/fde15d05e4bde3448b01a.png)](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
+
 
 
 ```
