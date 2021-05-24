@@ -30,18 +30,18 @@ async def amireallyalive(alive):
          wolf_caption  = f"**Wolf User Bot 🐺 Running Fine**\n\n"
          wolf_caption += f"**∂αтαвαѕє ѕтαтυѕ: (っ◔◡◔)っ ♥ Databases functioning normally!\n**"   
          wolf_caption += f"➯ 𝐓𝐞𝐥𝐞𝐭𝐡𝐨𝐧 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 : `{version.__version__}\n`"
-         wolf_caption += f"➯ 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{wolfversion}`\n"
+         wolf_caption += f"➯ 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{ghoulsversion}`\n"
          wolf_caption += f"➯ 𝐏𝐲𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{python_version()}\n\n`"
          wolf_caption += f"**𝐈'𝐦 𝐡𝐞𝐫𝐞 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮, 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫!\n**🐺"
          wolf_caption += f"➯ My Master: {DEFAULTUSER}\n"
          wolf_caption += f"➯ uptime : `{uptime}\n"
-         await borg.send_file(alive.chat_id, WOLF_IMG, caption=wolf_caption, reply_to=reply_to_id)
+         await borg.send_file(alive.chat_id, GHOULS_IMG, caption=wolf_caption, reply_to=reply_to_id)
          await alive.delete()
     else:
-        await alive.edit(f"**Wolf User Bot 🐺 Running Fine**\n\n"
+        await alive.edit(f"**ghouls User Bot 🐺 Running Fine**\n\n"
                          "**∂αтαвαѕє ѕтαтυѕ: (っ◔◡◔)っ ♥ Databases functioning normally!\n**" 
                          f"➯ 𝐓𝐞𝐥𝐞𝐭𝐡𝐨𝐧 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 : `{version.__version__}\n`"
-                         f"➯ 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{wolfversion}`\n"
+                         f"➯ 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{ghoulsversion}`\n"
                          f"➯ 𝐏𝐲𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{python_version()}\n\n`"
                          "**𝐈'𝐦 𝐡𝐞𝐫𝐞 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮, 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫!\n**🐺"
                          f"➯ My Master: {DEFAULTUSER}\n"
