@@ -23,10 +23,10 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WolfGangIndia/WolfUserBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING-USER1/BLACK-GHOULS-USERBOT)
 <p align="center">
-  <a href="https://github.com/WolfGangIndia/WolfUserBot/fork">
-    <img src="https://img.shields.io/github/forks/WolfGangIndia/WolfUserBot?label=Fork&style=social">
+  <a href="https://github.com/KING-USER1/BLACK-GHOULS-USERBOT/fork">
+    <img src="https://img.shields.io/github/forks/KING-USER1/BLACK-GHOULS-USERBOT?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/WolfGangIndia/WolfUserBot">
