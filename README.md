@@ -11,7 +11,7 @@
 
 WolfUserBot is a modular Telegram userbot running on Python3, which can be coupled up with Heroku.
 
-WolfUserBot is currently maintained by [Rajveer](https://t.me/Smart_S54) [ϻʀ 𝗦ᴄ1�7ᴍᴍʏ┃WᴏʟꜰGᴄ1�7ɴɢ┄1�7 🐺 ](https://t.me/Mr_Semmy). It started as a simple bot,
+WolfUserBot is currently maintained by [Rajveer](https://t.me/Smart_S54) [Ï»Ê€ ð—¦á´„1¤7á´á´Êâ”ƒWá´ÊŸêœ°Gá´„1¤7É´É¢â”„1¤7 ðŸº ](https://t.me/Mr_Semmy). It started as a simple bot,
 
 which helped with group management, [WolfUserBot](https://github.com/WolfGangIndia/WolfUserBot).
 
@@ -38,7 +38,7 @@ Deploy to Heroku:
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
 
 
-[![wolfuserbot logo](https://telegra.ph/file/38581d12ada5143aa72c4.jpg)](https://heroku.com/deploy)
+[![opghoulsbot logo](https://telegra.ph/file/6e1201c7913ad1fa74d82.jpg)](https://heroku.com/deploy)
 
 
 **Heroku Configuration**
