@@ -48,7 +48,7 @@ for name in files:
         
 LOGS.info("Yay your userbot is officially working.!!!")
 LOGS.info("Congratulation, now type .alive to see message if bot is live\n"
-          "If you need assistance, head to https://t.me/Wolf_User_Bot")
+          "If you need assistance, head to https://t.me/BLACK_GHOULS_USERBOT_SUPPORT")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
