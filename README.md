@@ -13,7 +13,7 @@ WolfUserBot is a modular Telegram userbot running on Python3, which can be coupl
 
 WolfUserBot is currently maintained by [Rajveer](https://t.me/Smart_S54) [Ï»Ê€ ð—¦á´„1¤7á´á´Êâ”ƒWá´ÊŸêœ°Gá´„1¤7É´É¢â”„1¤7 ðŸº ](https://t.me/Mr_Semmy). It started as a simple bot,
 
-which helped with group management, [WolfUserBot](https://github.com/WolfGangIndia/WolfUserBot).
+which helped with group management, [UserBot](https://github.com/KING-USER1/BLACK-GHOULS-USERBOT).
 
 It has since evolved, becoming extremely modular and simple to use.
 
